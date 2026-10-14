@@ -30,3 +30,4 @@ yarn.lock
 .idea
 *.iml
 src/content/posts/.obsidian/
+src/content/posts/template/
