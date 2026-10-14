@@ -10,8 +10,6 @@ tags:
 category: Social
 draft: false
 ---
-# When Doctrine Overrides Evidence: The Cost of Religious Power in Pakistan
-
 ## Disclaimer
 
 **What this is:** An examination of how religion, when enforced through law, politics and social pressure, affects education, scientific progress, women's participation, minority rights and public health in Pakistan. The argument draws on government statistics, academic research and reports from organisations such as the World Bank, UNICEF, the World Economic Forum, Pew Research Center and human-rights organisations.
